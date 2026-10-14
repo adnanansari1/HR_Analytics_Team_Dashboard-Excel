@@ -18,7 +18,7 @@ The HR Analytics Team Dashboard is a data analytics project designed to analyze 
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](/Image/HR%20Analytics%20Dashboard.png)
+![HR Analytics Dashboard](/Image/HR%20Analytics%20Team%20Dashboard.png)
 
 ## 📈 Key Performance Indicators (KPIs)
 
